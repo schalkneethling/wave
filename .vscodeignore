@@ -1,0 +1,10 @@
+.vscode/**
+.github/**
+*.vsix
+**/*.map
+**/.DS_Store
+**/Thumbs.db
+node_modules/**
+.gitignore
+.gitattributes
+CHANGELOG.md
